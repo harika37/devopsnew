@@ -1,5 +1,5 @@
 This is my first program in java
 
-this is second line in java program
+second line modified in bug 1
 
 
